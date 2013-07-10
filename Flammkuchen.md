@@ -2,7 +2,7 @@
 
 ## Zutaten
 
-für 2 Bleche
+für 2 Bleche (4 Flammkuchen)
 
 - 250 g Mehl
 - 2 TL Olivenöl
