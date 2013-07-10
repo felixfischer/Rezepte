@@ -10,7 +10,7 @@ für 2 Bleche (4 Flammkuchen)
 - 1 TL Salz
 - 1 Becher Crème fraîche mit Kräutern oder Schmand
 - 200 g Schinkenwürfel
-- 150 g Käse, geriebener
+- 150 g geriebener Käse (optional)
 - 1 Zwiebel, in dünne Halbringe geschnitten
 
 ## Zubereitung
