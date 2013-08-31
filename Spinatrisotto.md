@@ -17,4 +17,4 @@ für 2 Personen
 
 ## Zubereitung
 
-Die Brühe aufkochen und gleichzeitig die gehackte Zwiebel in einem großen Topf sanft glasig anbraten. Den Reis 1 Min. mitbraten und die Brühe dazugießen. Kurz aufkochen, Hitze auf sehr kleine Stufe stellen und 15 Min. köcheln lassen. Inzwischen Knoblauch schälen und pressen, kurz im Brühetopf in Butter anbraten, Sahne und Spinat hinzugeben, einkochen. Parmesan reiben. Nach Ablauf der 15 Minuten alles zum Reis geben, umrühren, abschmecken und schnell servieren.
+Die Brühe aufkochen und gleichzeitig die fein gehackte Zwiebel in einem großen Topf sanft glasig anbraten. Den Reis 1 Min. mitbraten und die Brühe dazugießen. Kurz aufkochen, Hitze auf sehr kleine Stufe stellen und 15 Min. köcheln lassen. Inzwischen Knoblauch schälen und pressen, kurz im Brühetopf in Butter anbraten, Sahne und Spinat hinzugeben, einkochen. Parmesan reiben. Nach Ablauf der 15 Minuten alles zum Reis geben, umrühren, abschmecken und schnell servieren.
