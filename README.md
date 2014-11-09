@@ -14,6 +14,7 @@
 - [Spargel-Kartoffel-Gemüse](Spargel-Kartoffel-Gemuese.md)
 - [Spinatrisotto](Spinatrisotto.md)
 - [Steak](Steak.md)
+- [Stracotta](Stracotta.md)
 
 ## Süßspeisen
 
