@@ -3,6 +3,7 @@
 ## Snacks
 
 - [Herzhafte Frühstücksmuffins](Herzhafte_Fruehstuecksmuffins.md)
+- [Spanische Tortilla](Spanische_Tortilla.md)
 
 ## Hauptgerichte
 
