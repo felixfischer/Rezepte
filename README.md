@@ -10,6 +10,7 @@
 - [Asiatische Kohlsuppe](Asiatische_Kohlsuppe.md)
 - [Flammkuchen](Flammkuchen.md)
 - [Hühnersuppe](Huehnersuppe.md)
+- [Käsefondue](Kaesefondue.md)
 - [Quiche](Quiche.md)
 - [Schwarze-Bohnen-Eintopf](Schwarze-Bohnen-Eintopf.md)
 - [Spargel-Kartoffel-Gemüse](Spargel-Kartoffel-Gemuese.md)
