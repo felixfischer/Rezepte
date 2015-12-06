@@ -16,7 +16,7 @@ für 4 Personen
 - 1 Msp. Paprikapulver, edelsüß
 - Pfeffer, weiß
 
-Weitere Beilagen nach Belieben: kleine Pellkartoffeln, gedünsteter Broccoli, Blumenkohl, Cocktailtomaten, Paprika, Zucchini, Kohlrabi, gebratene Champignons, Schinken, Wurststücke, Weintrauben, Äpfel, Ananaswürfel, ...
+Weitere Beilagen nach Belieben: kleine Pellkartoffeln, gedünsteter Broccoli, Blumenkohl, Cocktailtomaten, angebratene Champignons, gewürfelter Kohlrabi, Paprika, Äpfel, Ananas, Weintrauben, Schinken, etc.
 
 
 ## Zubereitung
