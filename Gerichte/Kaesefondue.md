@@ -1,7 +1,3 @@
----
-title: Rezept für Käsefondue
----
-
 # Käsefondue
 
 
