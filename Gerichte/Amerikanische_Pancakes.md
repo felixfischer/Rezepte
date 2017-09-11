@@ -9,6 +9,7 @@
 - 2 EL Butter
 - 4 Eier
 - 400 ml Buttermilch
+- Ahornsirup
 
 ## Zubereitung
 
