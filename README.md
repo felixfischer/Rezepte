@@ -2,8 +2,9 @@
 
 meine Sammlung kulinarischer Rezepte
 
-## Snacks
+## Snacks & Beilagen
 
+- [Bohnensalat](Gerichte/Bohnensalat.md)
 - [Herzhafte Frühstücksmuffins](Gerichte/Herzhafte_Fruehstuecksmuffins.md)
 - [Spanische Tortilla](Gerichte/Spanische_Tortilla.md)
 
@@ -17,6 +18,7 @@ meine Sammlung kulinarischer Rezepte
 
 - [Flammkuchen](Gerichte/Flammkuchen.md)
 - [Käsefondue](Gerichte/Kaesefondue.md)
+- [Khachapuri](Gerichte/Khachapuri.md)
 - [Quiche](Gerichte/Quiche.md)
 - [Spargel-Kartoffel-Gemüse](Gerichte/Spargel-Kartoffel-Gemuese.md)
 - [Spinatrisotto](Gerichte/Spinatrisotto.md)
