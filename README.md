@@ -19,6 +19,7 @@ meine Sammlung kulinarischer Rezepte
 - [Flammkuchen](Gerichte/Flammkuchen.md)
 - [Käsefondue](Gerichte/Kaesefondue.md)
 - [Khachapuri](Gerichte/Khachapuri.md)
+- [Pizza](Gerichte/Pizza.md)
 - [Quiche](Gerichte/Quiche.md)
 - [Spargel-Kartoffel-Gemüse](Gerichte/Spargel-Kartoffel-Gemuese.md)
 - [Spinatrisotto](Gerichte/Spinatrisotto.md)
