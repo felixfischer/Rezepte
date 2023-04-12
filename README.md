@@ -17,6 +17,7 @@ meine Sammlung kulinarischer Rezepte
 ## Hauptspeisen
 
 - [Flammkuchen](Gerichte/Flammkuchen.md)
+- [Frankfurter Grüne Soße](Gerichte/Frankfurter_Gruene_Sosse.md)
 - [Käsefondue](Gerichte/Kaesefondue.md)
 - [Khachapuri](Gerichte/Khachapuri.md)
 - [Pizza](Gerichte/Pizza.md)
