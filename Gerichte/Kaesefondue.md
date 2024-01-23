@@ -18,7 +18,6 @@ für 4 Personen
 
 Weitere Beilagen nach Belieben: kleine Pellkartoffeln, gedünsteter Broccoli, Blumenkohl, Cocktailtomaten, angebratene Champignons, gewürfelter Kohlrabi, Paprika, Äpfel, Ananas, Weintrauben, Schinken, etc.
 
-
 ## Zubereitung
 
 0. Den Käse fein reiben.
@@ -28,7 +27,6 @@ Weitere Beilagen nach Belieben: kleine Pellkartoffeln, gedünsteter Broccoli, Bl
 4. Die andere Hälfte der Knoblauchzehe pressen und zum Käse geben.
 6. Das Fondue auf das entfachte Rechaud stellen und mit Pfeffer, Paprika und Muskat würzen.
 7. Das Brot in Würfel schneiden und servieren.
-
 
 ## Tipps
 
