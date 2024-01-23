@@ -16,6 +16,7 @@ meine Sammlung kulinarischer Rezepte
 
 ## Hauptspeisen
 
+- [Ente](Gerichte/Ente.md)
 - [Flammkuchen](Gerichte/Flammkuchen.md)
 - [Frankfurter Grüne Soße](Gerichte/Frankfurter_Gruene_Sosse.md)
 - [Käsefondue](Gerichte/Kaesefondue.md)
